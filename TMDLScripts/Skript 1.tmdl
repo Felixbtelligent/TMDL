@@ -4,7 +4,7 @@ createOrReplace
 		lineageTag: 3de17018-8260-4d8a-95a3-718e46bc7c4e
 
 		measure 'Order items PY' = CALCULATE([Number of order items], SAMEPERIODLASTYEAR('FACT_SALES_DELIVERY'[Actual Goods Issue Date].[Date]))
-			formatString: 0
+			formatString: string
 			displayFolder: Test
 			lineageTag: 17e3b2fc-cc6d-49a5-af8d-1dc3a562eeb6
 
