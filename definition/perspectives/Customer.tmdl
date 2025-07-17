@@ -1,0 +1,10 @@
+perspective Customer
+
+	perspectiveTable DIM_CUSTOMER
+
+		perspectiveColumn ACCOUNT_MANAGER
+
+		perspectiveColumn CITY
+
+		perspectiveColumn CRM_ZIPCODE
+

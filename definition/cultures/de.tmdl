@@ -1,0 +1,10 @@
+cultureInfo de
+	translations
+		model Model
+			table DIM_CUSTOMER
+				caption: dim_kunden
+				column CITY
+					caption: Stadt
+				column COUNTRY_NAME
+					caption: Name Land
+

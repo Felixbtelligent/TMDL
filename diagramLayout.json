@@ -1,0 +1,256 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 349.72962066182407,
+        "y": 4659.3010752688178
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 2565,
+            "y": 5371.8488101959229
+          },
+          "nodeIndex": "Tabelle",
+          "nodeLineageTag": "c60f9313-39db-41a3-b12b-5c4f5473c498",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 2590,
+            "y": 5632.8488101959229
+          },
+          "nodeIndex": "Holidays",
+          "nodeLineageTag": "35c27b17-d4fa-4e9e-9924-c588e5b6b1b1",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 515.65677966101691,
+            "y": 5424.2005051111773
+          },
+          "nodeIndex": "DIM_PLANT",
+          "nodeLineageTag": "82ebaae5-9edf-427e-925a-f93e56f66426",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 486.27118644067787,
+            "y": 5758.5776237552454
+          },
+          "nodeIndex": "DIM_PRODCUT",
+          "nodeLineageTag": "93b48e10-bfbc-4200-8864-06fb1d111a19",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 2301,
+            "y": 5384.8488101959229
+          },
+          "nodeIndex": "Selections",
+          "nodeLineageTag": "78076951-ca28-4d04-8bff-9f8569790332",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 2288,
+            "y": 5580.8488101959229
+          },
+          "nodeIndex": "_Measures",
+          "nodeLineageTag": "3de17018-8260-4d8a-95a3-718e46bc7c4e",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 3005,
+            "y": 5695.8488101959229
+          },
+          "nodeIndex": "MinQualityParameter",
+          "nodeLineageTag": "05b1b779-e316-41ab-9acd-4a72038dda15",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 2386,
+            "y": 5850.8488101959229
+          },
+          "nodeIndex": "MaxQualityParameter",
+          "nodeLineageTag": "96892cc7-bca8-4d4b-ac90-a53d90f61d3f",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1005,
+            "y": 5093.3488101959229
+          },
+          "nodeIndex": "DIM_CUSTOMER",
+          "nodeLineageTag": "780218a0-a6d1-445c-aa95-eb4760545c3a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1379.5,
+            "y": 5315.8488101959229
+          },
+          "nodeIndex": "SortTable first confirmation",
+          "nodeLineageTag": "f0995a5a-3804-414a-a26d-88d0176fadff",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 1499,
+            "y": 5975.8488101959229
+          },
+          "nodeIndex": "SortTable requested date",
+          "nodeLineageTag": "e64d7c53-a76b-4571-8801-c6e5e7f19f36",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1044.3093220338978,
+            "y": 5640.4038949416854
+          },
+          "nodeIndex": "FACT_SALES_DELIVERY",
+          "nodeLineageTag": "d58ac3a0-3920-49f9-aeea-f24ee7f4b071",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 2691,
+            "y": 5867.7238101959229
+          },
+          "nodeIndex": "SelectionTable",
+          "nodeLineageTag": "4083c421-3331-4536-ab79-934721f6591e",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1089,
+            "y": 6152.4659976959229
+          },
+          "nodeIndex": "Reason Codes",
+          "nodeLineageTag": "facafa95-5232-44e6-9772-6e957ed1b084",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 2398,
+            "y": 5047.2745914459229
+          },
+          "nodeIndex": "CalendarTable",
+          "nodeLineageTag": "5d7341a1-192e-411d-a149-6370a09803a4",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2940,
+            "y": 5508.9269351959229
+          },
+          "nodeIndex": "HolidayTable",
+          "nodeLineageTag": "9756a924-95c4-430a-ae38-ccb260800786",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2696,
+            "y": 5050.3971500396729
+          },
+          "nodeIndex": "Data Definition",
+          "nodeLineageTag": "e3ae24a1-c9e8-4b7a-ac0d-ca671910e135",
+          "size": {
+            "height": 232,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 3040,
+            "y": 5263.3068180084229
+          },
+          "nodeIndex": "Zeitansicht",
+          "nodeLineageTag": "414b63c8-a3c7-4c97-91a8-9d44008a6970",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        }
+      ],
+      "name": "Alle Tabellen",
+      "zoomValue": 44.319951997969142,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Alle Tabellen",
+  "defaultDiagram": "Alle Tabellen"
+}
